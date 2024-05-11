@@ -1,7 +1,0 @@
-# Ignorowanie katalogu .vs w Visual Studio
-.vs/
-
-# Ignorowanie plików tymczasowych i ustawień w katalogu .vs
-.vs/*.suo
-.vs/*.sln.docstates
-.vs/Amora/*
