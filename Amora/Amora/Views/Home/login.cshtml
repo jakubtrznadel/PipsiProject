@@ -1,0 +1,36 @@
+﻿@model Amora.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Log in";
+    bool showErrorMessage = !ViewData.ModelState.IsValid && !string.IsNullOrEmpty(ViewData["SessionData"] as string);
+}
+
+@if (!string.IsNullOrEmpty(ViewData["SessionData"] as string))
+{
+    <p>@ViewData["SessionData"]</p>
+}
+<style>
+    body {
+        background-image: url('/Images/Website/background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+</style>
+
+<h1 class="text-center">Log in</h1>
+<div class="container d-flex justify-content-center bg-danger w-50 rounded-3 p-4 border-4 shadow">
+
+    <form asp-controller="Account" asp-action="Login" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-dark"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-warning"></span>
+    </div>
+        <button type="submit" class="btn btn-outline-dark btn-danger mt-3">Login</button>
+</form>
+</div>

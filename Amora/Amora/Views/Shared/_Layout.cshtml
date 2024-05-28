@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Amora</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Amora.styles.css" asp-append-version="true" />
+
+    <style>
+        ::-webkit-scrollbar {
+            width: 15px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background-color: #c82333;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #fff;
+            border-radius: 10px;
+            border: 2px solid #000;
+        }
+
+            ::-webkit-scrollbar-thumb:hover {
+                background: #000;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-danger border-bottom border-dark text-white box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand mx-auto" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/images/website/logo.png" alt="Amora Logo" style="height: 40px; width: auto;" asp-append-version="true" />
+                </a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top border-dark footer bg-danger text-white">
+        <div class="container">
+            &copy; 2024 - Amora - <a asp-area="" asp-controller="Home" asp-action="FAQ">FAQ</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
