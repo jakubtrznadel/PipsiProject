@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Amora
+build_property.RootNamespace = Amora
+build_property.ProjectDir = X:\VisualStudio\ProjectStudy\Amora\Amora\Amora\Amora\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = X:\VisualStudio\ProjectStudy\Amora\Amora\Amora\Amora
+build_property._RazorSourceGeneratorDebug = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/ChooseGender.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaG9vc2VHZW5kZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/EditHobby.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0SG9iYnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGQVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/MatchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXRjaFJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/NoMatches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb01hdGNoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/PreviousMatches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmV2aW91c01hdGNoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/MatchAccepted/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hBY2NlcHRlZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/MatchAccepted/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hBY2NlcHRlZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/MatchAccepted/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hBY2NlcHRlZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/MatchAccepted/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hBY2NlcHRlZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/MatchAccepted/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hBY2NlcHRlZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Matches/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Matches/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Matches/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Matches/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Matches/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0Y2hlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/RegisterViewModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJWaWV3TW9kZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/RegisterViewModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJWaWV3TW9kZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/RegisterViewModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJWaWV3TW9kZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/RegisterViewModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJWaWV3TW9kZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/RegisterViewModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJWaWV3TW9kZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Rejecteds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVqZWN0ZWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Rejecteds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVqZWN0ZWRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Rejecteds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVqZWN0ZWRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Rejecteds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVqZWN0ZWRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Rejecteds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVqZWN0ZWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/VisualStudio/ProjectStudy/Amora/Amora/Amora/Amora/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n0wtw8fwp8
