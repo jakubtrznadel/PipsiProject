@@ -1,0 +1,49 @@
+﻿@model List<Amora.Models.RegisterViewModel>
+
+@{
+    ViewData["Title"] = "Notifications";
+}
+
+<style>
+    body {
+        background-image: url('/Images/Website/background.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+</style>
+
+@if (Model.Count == 0)
+{
+    <div class="container bg-danger w-50 rounded-3 p-4 border-4 shadow">
+        <h1 class="display-4">No Notifications Found</h1>
+        <a class="btn btn-outline-dark btn-danger" href="@Url.Action("Index", "Home")">Go to Home</a>
+    </div>
+}
+else
+{
+    <div class="container">
+        @foreach (var user in Model)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <div class="d-flex align-items-center">
+                    <img src="~/Images/@user.Photo" alt="Profile Photo" class="rounded-circle" style="width: 50px; height: 50px; object-fit: cover;">
+                    <div class="ms-3">
+                        <h5 class="alert-heading">@($"{user.Name} {user.Surname}")</h5>
+                        <p class="mb-0">Do you want to accept the match with this person?</p>
+                    </div>
+                    <div class="ms-auto">
+                        <form method="post" action="@Url.Action("AcceptMatch", "Account")">
+                            <input type="hidden" name="matchedUserId" value="@user.Id" />
+                            <button type="submit" name="decision" value="Yes" class="btn btn-success me-2">Yes</button>
+                        </form>
+                        <form method="post" action="@Url.Action("RejectMatch", "Account")">
+                            <input type="hidden" name="matchedUserId" value="@user.Id" />
+                            <button type="submit" name="decision" value="No" class="btn btn-danger">No</button>
+                        </form>
+                    </div>
+                </div>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+    </div>
+}

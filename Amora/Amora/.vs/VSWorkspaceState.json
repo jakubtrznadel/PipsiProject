@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Amora",
-    "\\Amora\\Controllers",
-    "\\Amora\\Models",
-    "\\Amora\\Views",
-    "\\Amora\\Views\\Home"
+    "\\Amora\\Amora",
+    "\\Amora\\Amora\\Controllers",
+    "\\Amora\\Amora\\Models",
+    "\\Amora\\Amora\\Views",
+    "\\Amora\\Amora\\Views\\Home"
   ],
-  "SelectedNode": "\\Amora.sln",
+  "SelectedNode": "\\Amora\\Amora\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }
