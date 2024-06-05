@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Amora",
-    "\\Amora\\Controllers",
-    "\\Amora\\Models",
-    "\\Amora\\Views",
-    "\\Amora\\Views\\Home"
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\Amora.sln",
+  "SelectedNode": "\\Views\\Home\\EditHobby.cshtml",
   "PreviewInSolutionExplorer": false
 }
