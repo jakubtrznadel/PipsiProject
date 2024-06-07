@@ -1,6 +1,6 @@
 ﻿@model Amora.Models.LoginViewModel
 @{
-    ViewData["Title"] = "Log in";
+    ViewData["Title"] = @Amora.Resources.Resource.Login;
     bool showErrorMessage = !ViewData.ModelState.IsValid && !string.IsNullOrEmpty(ViewData["SessionData"] as string);
 }
 
@@ -16,7 +16,7 @@
     }
 </style>
 
-<h1 class="text-center">Log in</h1>
+<h1 class="text-center">@Amora.Resources.Resource.Login</h1>
 <div class="container d-flex justify-content-center bg-danger w-50 rounded-3 p-4 border-4 shadow">
 
     <form asp-controller="Account" asp-action="Login" method="post">
@@ -27,10 +27,10 @@
         <span asp-validation-for="Email" class="text-dark"></span>
     </div>
     <div class="form-group">
-        <label asp-for="Password"></label>
+            <label asp-for="Password">@Amora.Resources.Resource.Password</label>
         <input asp-for="Password" type="password" class="form-control" />
         <span asp-validation-for="Password" class="text-warning"></span>
     </div>
-        <button type="submit" class="btn btn-outline-dark btn-danger mt-3">Login</button>
+        <button type="submit" class="btn btn-outline-dark btn-danger mt-3">@Amora.Resources.Resource.Login</button>
 </form>
 </div>

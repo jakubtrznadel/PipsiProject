@@ -38,6 +38,26 @@
                 <a class="nav-link text-white" asp-area="" asp-controller="Account" asp-action="Notifications">
                     <img src="~/images/website/notifications.png" alt="Notifications" style="height: 40px; width: auto;" asp-append-version="true" />
                 </a>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav text-end">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                @if (Thread.CurrentThread.CurrentCulture.ToString() == "en")
+                                {
+                                    <span>English</span>
+                                }
+                                else
+                                {
+                                    <span>Polski</span>
+                                }
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="ChangeLanguage" asp-route-lang="en">English</a></li>
+                                <li><a class="dropdown-item" asp-controller="Home" asp-action="ChangeLanguage" asp-route-lang="pl">Polski</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </nav>
     </header>

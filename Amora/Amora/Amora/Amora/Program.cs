@@ -1,12 +1,14 @@
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
 using Amora.Data;
-using Microsoft.Extensions.FileProviders;
 using Amora.Models;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Amora.Services;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+var smtpSettings = builder.Configuration.GetSection("SmtpSettings").Get<Smtp>();
+
 
 builder.Services.AddDbContext<AmoraContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AmoraContext") ?? throw new InvalidOperationException("Connection string 'AmoraContext' not found.")));
@@ -14,6 +16,9 @@ builder.Services.AddDbContext<AmoraContext>(options =>
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 builder.Services.AddMemoryCache();
+
+
+builder.Services.AddTransient<EmailService>(sp => new EmailService(smtpSettings));
 
 var app = builder.Build();
 
@@ -42,13 +47,26 @@ app.UseStaticFiles(new StaticFileOptions
 
 app.UseRouting();
 
+app.Use(async (context, next) =>
+{
+    string cookie = string.Empty;
+    if (context.Request.Cookies.TryGetValue("Language", out cookie))
+    {
+        System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo(cookie);
+        System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo(cookie);
+    }
+    else
+    {
+        System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
+        System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("en");
+    }
+    await next.Invoke();
+});
+
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.UseSession();
-
-
-
 
 app.UseEndpoints(endpoints =>
 {

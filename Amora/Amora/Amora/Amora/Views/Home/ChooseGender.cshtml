@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Choose Gender";
+    ViewData["Title"] = @Amora.Resources.Resource.ChooseG;
 }
 <style>
     body {
@@ -10,12 +10,12 @@
 </style>
 
 <div class="container mt-5">
-    <h1 class="text-center">Choose Gender</h1>
+    <h1 class="text-center">@Amora.Resources.Resource.ChooseG</h1>
     <form asp-controller="Account" asp-action="Match" method="post" class="text-center mt-4">
         <select name="gender" class="form-select w-25 mx-auto" aria-label="Select Gender">
-            <option value="Male">Male</option>
-            <option value="Female">Female</option>
+            <option value="Male">@Amora.Resources.Resource.Male</option>
+            <option value="Female">@Amora.Resources.Resource.Female</option>
         </select>
-        <button type="submit" class="btn-lg btn-danger mt-4 shadow">Search</button>
+        <button type="submit" class="btn-lg btn-danger mt-4 shadow">@Amora.Resources.Resource.Search</button>
     </form>
 </div>

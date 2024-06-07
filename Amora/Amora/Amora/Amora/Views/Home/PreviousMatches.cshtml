@@ -10,7 +10,7 @@
     var joke = JsonConvert.DeserializeObject<Joke>(jokeJson);
 }
 @{
-    ViewData["Title"] = "Previous Matches";
+    ViewData["Title"] = @Amora.Resources.Resource.PreviousM;
 }
 <style>
     body {
@@ -22,17 +22,17 @@
 
 @if (Model.Count == 0)
 {
-    <h2 class="display-4">Previous Matches</h2>
-    <p>No previous matches found.</p>
+    <h2 class="display-4">@Amora.Resources.Resource.PreviousM</h2>
+    <p>@Amora.Resources.Resource.NoPreviousM</p>
 }
 else
 {
     <div class="bg-danger rounded p-3 shadow">
-        <h5>Here's a joke that might help you on your first phone call with match</h5>
+        <h5>@Amora.Resources.Resource.JokeText</h5>
         <p class="alert-heading">@joke.Setup <br /> @joke.Punchline</p>
     </div>
     <div class="container">
-        <h2 class="display-4">Previous Matches</h2>
+        <h2 class="display-4">@Amora.Resources.Resource.PreviousM</h2>
         <div class="row">
             @foreach (var user in Model)
             {
@@ -41,10 +41,10 @@ else
                         <img src="~/Images/@user.Photo" class="card-img-top" alt="@user.Name's photo">
                         <div class="card-body">
                             <h5 class="card-title">@($"{user.Name} {user.Surname}")</h5>
-                            <p class="card-text">Gender: @user.Gender</p>
-                            <p class="card-text">Age: @(DateTime.Now.Year - user.Age.Year)</p>
-                            <p class="card-text">Hobby: @user.Hobby</p>
-                            <p class="card-text">Phone number: @user.PhoneNumber</p>
+                            <p class="card-text">@Amora.Resources.Resource.Gender: @user.Gender</p>
+                            <p class="card-text">@Amora.Resources.Resource.Age: @(DateTime.Now.Year - user.Age.Year)</p>
+                            <p class="card-text">@Amora.Resources.Resource.Hobby: @user.Hobby</p>
+                            <p class="card-text">@Amora.Resources.Resource.PhoneNumber: @user.PhoneNumber</p>
                         </div>
                     </div>
                 </div>

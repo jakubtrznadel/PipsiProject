@@ -1,6 +1,6 @@
 ﻿@model Amora.Models.RegisterViewModel
 @{
-    ViewData["Title"] = "Registration";
+    ViewData["Title"] = @Amora.Resources.Resource.Registration;
 }
 
 <style>
@@ -10,53 +10,53 @@
         background-repeat: no-repeat;
     }
 </style>
-<h1 class="text-center">Register</h1>
+<h1 class="text-center">@Amora.Resources.Resource.Registration</h1>
 <div class="container d-flex justify-content-center bg-danger w-50 rounded-3 p-4 border-4 shadow">
 
     <form method="post" asp-controller="Account" asp-action="Register" enctype="multipart/form-data" class="mt-4">
         <div class="form-group">
-            <label for="Email">Email address:</label>
+            <label for="Email">@Amora.Resources.Resource.Email:</label>
             <input type="email" id="Email" name="Email" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Name">Name:</label>
+            <label for="Name">@Amora.Resources.Resource.Name:</label>
             <input type="text" id="Name" name="Name" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Surname">Surname:</label>
+            <label for="Surname">@Amora.Resources.Resource.Surname:</label>
             <input type="text" id="Surname" name="Surname" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Gender">Gender:</label>
+            <label for="Gender">@Amora.Resources.Resource.Gender:</label>
             <select id="Gender" name="Gender" class="form-control">
                 <option value="Male">Male</option>
                 <option value="Female">Female</option>
             </select>
         </div>
         <div class="form-group mt-2">
-            <label for="Age">Birth:</label>
+            <label for="Age">@Amora.Resources.Resource.Birth:</label>
             <input type="text" id="Age" name="Age" value="@Model.Age.ToString("dd-MM-yyyy")" class="form-control" min="1959-01-01" max="2024-06-31" />
         </div>
         <div class="form-group mt-2">
-            <label for="PhoneNumber">Phone Number:</label>
+            <label for="PhoneNumber">@Amora.Resources.Resource.PhoneNumber:</label>
             <input type="tel" id="PhoneNumber" name="PhoneNumber" maxlength="9" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Hobby">Hobby:</label>
+            <label for="Hobby">@Amora.Resources.Resource.Hobby:</label>
             <input type="text" id="Hobby" name="Hobby" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Password">Password:</label>
+            <label for="Password">@Amora.Resources.Resource.Password:</label>
             <input type="password" id="Password" name="Password" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="ConfirmPassword">Confirm Password:</label>
+            <label for="ConfirmPassword">@Amora.Resources.Resource.ConfirmPassword:</label>
             <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="form-control" />
         </div>
         <div class="form-group mt-2">
-            <label for="Photo">Choose Photo:</label>
+            <label for="Photo">@Amora.Resources.Resource.ChoosePhoto:</label>
             <div class="custom-file">
-                <label for="PhotoInput" class="btn btn-outline-dark btn-custom">Upload Photo</label>
+                <label for="PhotoInput" class="btn btn-outline-dark btn-custom">@Amora.Resources.Resource.UploadPhoto</label>
                 <input type="file" id="PhotoInput" name="photo" accept=".jpg, .jpeg, .png" onchange="displayFileName()" style="display: none;">
             </div>
             <input type="hidden" id="Photo" name="Photo">
@@ -102,7 +102,7 @@
             }
         </script>
         <div class="form-group mt-2">
-            <button type="submit" class="btn btn-outline-dark btn-danger mt-3">Register</button>
+            <button type="submit" class="btn btn-outline-dark btn-danger mt-3">@Amora.Resources.Resource.Register</button>
         </div>
     </form>
 </div>

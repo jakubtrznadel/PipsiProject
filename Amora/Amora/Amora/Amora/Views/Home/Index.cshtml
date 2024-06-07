@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = @Amora.Resources.Resource.Home;
     var userName = Context.Session.GetString("Name");
 }
 <style>
@@ -25,15 +25,15 @@
         @if (!string.IsNullOrEmpty(userName))
         {
            
-            <h1 class="display-4 text-light">Welcome, @userName!</h1>
-            <p class="text-light">You got access to full functionality.</p>
+            <h1 class="display-4 text-light">@Amora.Resources.Resource.Welcome, @userName!</h1>
+            <p class="text-light">@Amora.Resources.Resource.Accesibility</p>
             <br />
             <div class="row">
                 <div class="col">
                     <form asp-controller="Home" asp-action="Profile" method="get">
                         <button type="submit" class="btn btn-outline-dark btn-danger full-width-button shadow"
                                 style="height: 25vh; background-image: url('/Images/background2.jpg'); background-size: cover; background-repeat: no-repeat;">
-                            <span class="h1 fw-bold">Profile</span>
+                            <span class="h1 fw-bold">@Amora.Resources.Resource.Profile</span>
                         </button>
                     </form>
                 </div>
@@ -41,7 +41,7 @@
                     <form method="post" asp-controller="Account" asp-action="Logout">
                         <button type="submit" class="btn btn-outline-dark btn-danger full-width-button shadow" onclick="return confirmLogout()"
                                 style="height: 25vh; background-image: url('/Images/background2.jpg'); background-size: cover; bac">
-                            <span class="h1 fw-bold">Logout</span>
+                            <span class="h1 fw-bold">@Amora.Resources.Resource.Logout</span>
                         </button>
                     </form>
                 </div>
@@ -51,7 +51,7 @@
                     <form asp-controller="Account" asp-action="Match" method="get">
                         <button type="submit" class="btn btn-outline-dark btn-danger full-width-button shadow"
                                 style="height: 25vh; background-image: url('/Images/background2.jpg'); background-size: cover; bac">
-                            <span class="h1 fw-bold">Match</span>
+                            <span class="h1 fw-bold">@Amora.Resources.Resource.Match</span>
                         </button>
                     </form>
                 </div>
@@ -59,7 +59,7 @@
                     <form asp-controller="Account" asp-action="PreviousMatches" method="get">
                         <button type="submit" class="btn btn-outline-dark btn-danger full-width-button shadow"
                                 style="height: 25vh; background-image: url('/Images/background2.jpg'); background-size: cover; bac">
-                            <span class="h1 fw-bold">Previous Matches</span>
+                            <span class="h1 fw-bold">@Amora.Resources.Resource.PreviousM</span>
                         </button>
                     </form>
                 </div>
@@ -67,13 +67,13 @@
         }
         else
         {
-            <h1 class="display-4 text-light p-2">Welcome on Amora!</h1>
-            <p class="text-light">You must Log in to get a full functionality.</p>
+            <h1 class="display-4 text-light p-2">@Amora.Resources.Resource.Welcome</h1>
+            <p class="text-light">@Amora.Resources.Resource.NoAccess</p>
             <form asp-controller="Home" asp-action="Login" method="post">
-                <button type="submit" class="btn btn-outline-dark btn-danger mt-2">Log in</button>
+                <button type="submit" class="btn btn-outline-dark btn-danger mt-2">@Amora.Resources.Resource.Login</button>
             </form>
             <form asp-controller="Home" asp-action="Register" method="get">
-                <button type="submit" class="btn btn-outline-dark btn-danger mt-2">Register</button>
+                <button type="submit" class="btn btn-outline-dark btn-danger mt-2">@Amora.Resources.Resource.Register</button>
             </form>
         }
         <script>

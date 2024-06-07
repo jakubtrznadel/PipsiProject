@@ -7,12 +7,36 @@
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\amora\\resources\\texts.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\resources\\texts.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\resources\\resource.pl.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\resources\\resource.pl.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\resources\\resource.pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\resources\\resource.pl.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\resources\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\resources\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,31 +79,8 @@
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\views\\home\\choosegender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.RegisterViewModel.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -94,12 +95,20 @@
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\matchaccepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\matchaccepted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,14 +123,6 @@
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\models\\edithobbyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\migrations\\20240511143936_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\migrations\\20240511143936_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\migrations\\20240530154542_rejected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\migrations\\20240530154542_rejected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\data\\amoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\data\\amoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -134,8 +135,23 @@
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\registerviewmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\controllers\\matchacceptedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\controllers\\matchacceptedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.RegisterViewModel.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\migrations\\20240511143936_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\migrations\\20240511143936_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|x:\\visualstudio\\projectstudy\\amora\\amora\\amora\\amora\\migrations\\20240530154542_rejected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B736E-0601-456F-A5C8-02131936ADD1}|Amora\\Amora.csproj|solutionrelative:amora\\migrations\\20240530154542_rejected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.Match.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -236,7 +252,7 @@
               "RelativeDocumentMoniker": "Amora\\Controllers\\AccountController.cs",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Amora\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAACAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:34:45.441Z",
               "IsPinned": true,
@@ -252,227 +268,248 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Index.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:14:59.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "login.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\login.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\login.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\login.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:03.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MatchResults.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\MatchResults.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\MatchResults.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\MatchResults.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\MatchResults.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:05.63Z"
+              "DocumentIndex": 5,
+              "Title": "Resource.pl.resx",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.pl.resx",
+              "RelativeDocumentMoniker": "Amora\\Resources\\Resource.pl.resx",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.pl.resx",
+              "RelativeToolTip": "Amora\\Resources\\Resource.pl.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T09:18:27.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.resx",
+              "RelativeDocumentMoniker": "Amora\\Resources\\Resource.resx",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.resx",
+              "RelativeToolTip": "Amora\\Resources\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T08:12:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NoMatches.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\NoMatches.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Home\\NoMatches.cshtml",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\NoMatches.cshtml",
               "RelativeToolTip": "Amora\\Views\\Home\\NoMatches.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:07.267Z"
+              "WhenOpened": "2024-05-28T13:15:07.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Notifications.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Notifications.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Home\\Notifications.cshtml",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Notifications.cshtml",
               "RelativeToolTip": "Amora\\Views\\Home\\Notifications.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T13:49:22.816Z"
+              "WhenOpened": "2024-05-30T13:49:22.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "PreviousMatches.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\PreviousMatches.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Home\\PreviousMatches.cshtml",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\PreviousMatches.cshtml",
               "RelativeToolTip": "Amora\\Views\\Home\\PreviousMatches.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwDYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:08.95Z"
+              "WhenOpened": "2024-05-28T13:15:08.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:18.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Register.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\Register.cshtml",
-              "ViewState": "AQIAAEoAAAAAAAAAAAAAwHQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:20.657Z"
+              "Title": "Smtp.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Smtp.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\Smtp.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Smtp.cs",
+              "RelativeToolTip": "Amora\\Models\\Smtp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:02:50.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Texts.resx",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Texts.resx",
-              "RelativeDocumentMoniker": "Amora\\Resources\\Texts.resx",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Texts.resx",
-              "RelativeToolTip": "Amora\\Resources\\Texts.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-05T09:01:26.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FAQ.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\FAQ.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\FAQ.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\FAQ.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\FAQ.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:14:58.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EditHobby.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\EditHobby.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\EditHobby.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\EditHobby.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\EditHobby.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:14:57.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ChooseGender.cshtml",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\ChooseGender.cshtml",
-              "RelativeDocumentMoniker": "Amora\\Views\\Home\\ChooseGender.cshtml",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\ChooseGender.cshtml",
-              "RelativeToolTip": "Amora\\Views\\Home\\ChooseGender.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:14:53.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MatchesController.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchesController.cs",
-              "RelativeDocumentMoniker": "Amora\\Controllers\\MatchesController.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchesController.cs",
-              "RelativeToolTip": "Amora\\Controllers\\MatchesController.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAcwJ4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:13:31.52Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "dbo.RegisterViewModel [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.RegisterViewModel.sql",
-              "ToolTip": "dbo.RegisterViewModel [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-30T15:16:34.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Amora\\Controllers\\HomeController.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Amora\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwEYAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:13:27.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\LoginViewModel.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Amora\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:40.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Program.cs",
               "RelativeDocumentMoniker": "Amora\\Program.cs",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Program.cs",
               "RelativeToolTip": "Amora\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDsAAAAKAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:15:54.205Z"
+              "WhenOpened": "2024-05-28T13:15:54.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Profileviewmodel.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Profileviewmodel.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\Profileviewmodel.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Profileviewmodel.cs",
-              "RelativeToolTip": "Amora\\Models\\Profileviewmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:48.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\appsettings.json",
               "RelativeDocumentMoniker": "Amora\\appsettings.json",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\appsettings.json",
               "RelativeToolTip": "Amora\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwDoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-28T13:15:52.21Z"
+              "WhenOpened": "2024-05-28T13:15:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Amora\\Services\\EmailService.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Services\\EmailService.cs",
+              "RelativeToolTip": "Amora\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:16:12.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Index.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwFAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:14:59.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.pl.resx",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.pl.resx",
+              "RelativeDocumentMoniker": "Amora\\Resources\\Resource.pl.resx",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Resources\\Resource.pl.resx",
+              "RelativeToolTip": "Amora\\Resources\\Resource.pl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-07T08:15:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MatchResults.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\MatchResults.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\MatchResults.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\MatchResults.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\MatchResults.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:15:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\login.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:15:03.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:15:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\Register.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:15:20.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FAQ.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\FAQ.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\FAQ.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\FAQ.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\FAQ.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:14:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditHobby.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\EditHobby.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\EditHobby.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\EditHobby.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\EditHobby.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:14:57.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChooseGender.cshtml",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\ChooseGender.cshtml",
+              "RelativeDocumentMoniker": "Amora\\Views\\Home\\ChooseGender.cshtml",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Home\\ChooseGender.cshtml",
+              "RelativeToolTip": "Amora\\Views\\Home\\ChooseGender.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T13:14:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Amora\\Controllers\\HomeController.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Amora\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA0wFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:13:27.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -482,9 +519,114 @@
               "RelativeDocumentMoniker": "Amora\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Amora\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T13:15:43.218Z"
+              "WhenOpened": "2024-05-28T13:15:43.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\RegisterViewModel.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Amora\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Profileviewmodel.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Profileviewmodel.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\Profileviewmodel.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Profileviewmodel.cs",
+              "RelativeToolTip": "Amora\\Models\\Profileviewmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MatchAccepted.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\MatchAccepted.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\MatchAccepted.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\MatchAccepted.cs",
+              "RelativeToolTip": "Amora\\Models\\MatchAccepted.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:56:50.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Match.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\Match.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Match.cs",
+              "RelativeToolTip": "Amora\\Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\LoginViewModel.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Amora\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:40.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\Joke.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Joke.cs",
+              "RelativeToolTip": "Amora\\Models\\Joke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\ErrorViewModel.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Amora\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:37.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditHobbyViewModel.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\EditHobbyViewModel.cs",
+              "RelativeDocumentMoniker": "Amora\\Models\\EditHobbyViewModel.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\EditHobbyViewModel.cs",
+              "RelativeToolTip": "Amora\\Models\\EditHobbyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:14:26.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -496,83 +638,86 @@
               "RelativeToolTip": "Amora\\Models\\Rejected.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:43:46.749Z"
+              "WhenOpened": "2024-05-30T15:43:46.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\RegisterViewModel.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "Amora\\Models\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA6wC0AAAAAAAAA",
+              "DocumentIndex": 30,
+              "Title": "AmoraContext.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Data\\AmoraContext.cs",
+              "RelativeDocumentMoniker": "Amora\\Data\\AmoraContext.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Data\\AmoraContext.cs",
+              "RelativeToolTip": "Amora\\Data\\AmoraContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:50.614Z"
+              "WhenOpened": "2024-05-28T13:14:23.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MatchAccepted.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\MatchAccepted.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\MatchAccepted.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\MatchAccepted.cs",
-              "RelativeToolTip": "Amora\\Models\\MatchAccepted.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 31,
+              "Title": "RejectedsController.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RejectedsController.cs",
+              "RelativeDocumentMoniker": "Amora\\Controllers\\RejectedsController.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RejectedsController.cs",
+              "RelativeToolTip": "Amora\\Controllers\\RejectedsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAmwJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T14:56:50.617Z"
+              "WhenOpened": "2024-05-30T15:45:18.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Match.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Match.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\Match.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Match.cs",
-              "RelativeToolTip": "Amora\\Models\\Match.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 32,
+              "Title": "RegisterViewModelsController.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RegisterViewModelsController.cs",
+              "RelativeDocumentMoniker": "Amora\\Controllers\\RegisterViewModelsController.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RegisterViewModelsController.cs",
+              "RelativeToolTip": "Amora\\Controllers\\RegisterViewModelsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwJMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:41.27Z"
+              "WhenOpened": "2024-05-28T13:13:58.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Joke.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Joke.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\Joke.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\Joke.cs",
-              "RelativeToolTip": "Amora\\Models\\Joke.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "DocumentIndex": 33,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Amora\\Controllers\\MatchesController.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Amora\\Controllers\\MatchesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAmwJ4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:39.261Z"
+              "WhenOpened": "2024-05-28T13:13:31.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\ErrorViewModel.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Amora\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 34,
+              "Title": "MatchAcceptedController.cs",
+              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchAcceptedController.cs",
+              "RelativeDocumentMoniker": "Amora\\Controllers\\MatchAcceptedController.cs",
+              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchAcceptedController.cs",
+              "RelativeToolTip": "Amora\\Controllers\\MatchAcceptedController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAmwJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:37.536Z"
+              "WhenOpened": "2024-05-30T14:57:38.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EditHobbyViewModel.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\EditHobbyViewModel.cs",
-              "RelativeDocumentMoniker": "Amora\\Models\\EditHobbyViewModel.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Models\\EditHobbyViewModel.cs",
-              "RelativeToolTip": "Amora\\Models\\EditHobbyViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:26.78Z"
+              "DocumentIndex": 35,
+              "Title": "dbo.RegisterViewModel [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.RegisterViewModel.sql",
+              "ToolTip": "dbo.RegisterViewModel [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-30T15:16:34.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "20240511143936_Users.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\20240511143936_Users.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\20240511143936_Users.cs",
@@ -584,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "20240530154542_rejected.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\20240530154542_rejected.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\20240530154542_rejected.cs",
@@ -596,55 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AmoraContext.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Data\\AmoraContext.cs",
-              "RelativeDocumentMoniker": "Amora\\Data\\AmoraContext.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Data\\AmoraContext.cs",
-              "RelativeToolTip": "Amora\\Data\\AmoraContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:14:23.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "RejectedsController.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RejectedsController.cs",
-              "RelativeDocumentMoniker": "Amora\\Controllers\\RejectedsController.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RejectedsController.cs",
-              "RelativeToolTip": "Amora\\Controllers\\RejectedsController.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAcwJ0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:45:18.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RegisterViewModelsController.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RegisterViewModelsController.cs",
-              "RelativeDocumentMoniker": "Amora\\Controllers\\RegisterViewModelsController.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\RegisterViewModelsController.cs",
-              "RelativeToolTip": "Amora\\Controllers\\RegisterViewModelsController.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAcwJMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T13:13:58.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "MatchAcceptedController.cs",
-              "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchAcceptedController.cs",
-              "RelativeDocumentMoniker": "Amora\\Controllers\\MatchAcceptedController.cs",
-              "ToolTip": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Controllers\\MatchAcceptedController.cs",
-              "RelativeToolTip": "Amora\\Controllers\\MatchAcceptedController.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAcwJ0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T14:57:38.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "dbo.MatchAccepted [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.MatchAccepted.sql",
               "ToolTip": "dbo.MatchAccepted [Data]",
@@ -653,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "dbo.Match [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.Match.sql",
               "ToolTip": "dbo.Match [Data]",
@@ -662,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "dbo.Rejected [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AmoraContext_b6c97b04_0d30_4de5_bcbf_c38fb4d197e0/True/SqlTable/dbo.Rejected.sql",
               "ToolTip": "dbo.Rejected [Data]",
@@ -671,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Matches\\Index.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Matches\\Index.cshtml",
@@ -683,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Create.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Matches\\Create.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Matches\\Create.cshtml",
@@ -695,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Matches\\Delete.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Matches\\Delete.cshtml",
@@ -707,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Details.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Matches\\Details.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Matches\\Details.cshtml",
@@ -719,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Matches\\Edit.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Matches\\Edit.cshtml",
@@ -731,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\MatchAccepted\\Edit.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\MatchAccepted\\Edit.cshtml",
@@ -743,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "Details.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\MatchAccepted\\Details.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\MatchAccepted\\Details.cshtml",
@@ -755,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\MatchAccepted\\Index.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\MatchAccepted\\Index.cshtml",
@@ -767,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\MatchAccepted\\Create.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\MatchAccepted\\Create.cshtml",
@@ -779,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\MatchAccepted\\Delete.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\MatchAccepted\\Delete.cshtml",
@@ -791,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "20240530145801_accepted.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\20240530145801_accepted.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\20240530145801_accepted.cs",
@@ -803,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "20240514102352_AddPhotoColumn.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\20240514102352_AddPhotoColumn.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\20240514102352_AddPhotoColumn.cs",
@@ -815,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "20240522205911_MatchTable.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\20240522205911_MatchTable.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\20240522205911_MatchTable.cs",
@@ -827,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "AmoraContextModelSnapshot.cs",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Migrations\\AmoraContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Amora\\Migrations\\AmoraContextModelSnapshot.cs",
@@ -839,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -851,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\_ViewStart.cshtml",
@@ -863,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "Error.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\Shared\\Error.cshtml",
@@ -875,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "X:\\VisualStudio\\ProjectStudy\\Amora\\Amora\\Amora\\Amora\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Amora\\Views\\_ViewImports.cshtml",

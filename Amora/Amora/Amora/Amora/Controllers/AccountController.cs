@@ -1,22 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Amora.Data;
+﻿using Amora.Data;
 using Amora.Models;
-using System;
-using System.Linq;
+using Amora.Services;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
+using Newtonsoft.Json;
 using System.Security.Cryptography;
 using System.Text;
-using Microsoft.AspNetCore.Authentication.Cookies;
-using Microsoft.AspNetCore.Authentication;
-using System.Diagnostics;
-using Microsoft.AspNetCore.Http;
-using Microsoft.EntityFrameworkCore;
-using System.IO;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
-using Newtonsoft.Json;
-using Microsoft.AspNetCore.Identity;
-using Amora.Migrations;
-using Microsoft.Extensions.Caching.Memory;
 
 namespace Amora.Controllers
 {
@@ -24,11 +16,13 @@ namespace Amora.Controllers
     {
         private readonly IMemoryCache _cache;
         private readonly AmoraContext _context;
+        private readonly EmailService _emailService;
 
-        public AccountController(IMemoryCache memoryCache, AmoraContext context)
+        public AccountController(IMemoryCache memoryCache, AmoraContext context, EmailService emailService, ILogger<AccountController> logger)
         {
             _cache = memoryCache;
             _context = context;
+            _emailService = emailService;
         }
 
         public IActionResult Register()
@@ -97,6 +91,8 @@ namespace Amora.Controllers
                 _context.RegisterViewModel.Add(user);
                 _context.SaveChanges();
 
+                await _emailService.SendEmailAsync(model.Email, "Registered successful", "Thank you for registering on our website! We wish you good luck in finding your other half. With regards from Owners of Amora");
+
                 return RedirectToAction("Index", "Home");
             }
             catch (Exception ex)
@@ -105,6 +101,8 @@ namespace Amora.Controllers
                 return View("~/Views/Home/Register.cshtml", model);
             }
         }
+
+
 
 
 
@@ -211,7 +209,7 @@ namespace Amora.Controllers
                     var user = _context.RegisterViewModel.FirstOrDefault(u => u.Id == userId);
                     if (user != null)
                     {
-                        _cache.Set($"UserProfile_{userId}", user, TimeSpan.FromMinutes(30)); 
+                        _cache.Set($"UserProfile_{userId}", user, TimeSpan.FromMinutes(30));
                         return View(user);
                     }
                     else
@@ -379,7 +377,7 @@ namespace Amora.Controllers
                                           .Where(m => m.User_Id == loggedInUserId)
                                           .ToList();
 
-     
+
             var matchedUserMatches = _context.MatchAccepted
                                              .Where(m => m.MatchedUser_Id == loggedInUserId)
                                              .ToList();
@@ -503,10 +501,6 @@ namespace Amora.Controllers
 
             return RedirectToAction("Notifications");
         }
-
-
-
     }
 
 }
-

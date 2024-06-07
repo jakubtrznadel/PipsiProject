@@ -1,6 +1,6 @@
 ﻿@model EditHobbyViewModel
 @{
-    ViewData["Title"] = "Edit Hobby";
+    ViewData["Title"] = @Amora.Resources.Resource.EditH;
 }
 <style>
     body {
@@ -10,14 +10,14 @@
     }
 </style>
 
-<h1>Edit Hobby</h1>
+<h1>@Amora.Resources.Resource.EditH</h1>
 
 <form asp-action="EditHobby" method="post">
     <div class="form-group">
-        <label asp-for="Hobby" class="control-label"></label>
+        <label asp-for="Hobby" class="control-label"> @Amora.Resources.Resource.Hobby</label>
         <input asp-for="Hobby" class="form-control" />
         <span asp-validation-for="Hobby" class="text-danger"></span>
     </div>
-    <button type="submit" class="btn btn-outline-dark btn-danger mt-3">Save</button>
+    <button type="submit" class="btn btn-outline-dark btn-danger mt-3">@Amora.Resources.Resource.Save</button>
 </form>
-<a asp-action="Profile" asp-controller="Home" class="btn btn-outline-dark btn-danger mt-3">Back to Profile</a>
+<a asp-action="Profile" asp-controller="Home" class="btn btn-outline-dark btn-danger mt-3">@Amora.Resources.Resource.BackToProfile</a>

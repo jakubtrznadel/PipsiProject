@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "No Matches";
+    ViewData["Title"] = @Amora.Resources.Resource.NoMatches;
 }
 <style>
     body {
@@ -10,7 +10,7 @@
 </style>
 
 <div class="container bg-danger w-50 rounded-3 p-4 border-4 shadow">
-    <h1 class="display-4">No Matches Found</h1>
-    <p class="lead">Unfortunately, we couldn't find any more matches for you at the moment. Please check back later.</p>
-    <a class="btn btn-outline-dark btn-danger" href="@Url.Action("Index", "Home")">Go to Home</a>
+    <h1 class="display-4">@Amora.Resources.Resource.NoMatchesFound</h1>
+    <p class="lead">@Amora.Resources.Resource.NoMatchesFoundText</p>
+    <a class="btn btn-outline-dark btn-danger" href="@Url.Action("Index", "Home")">@Amora.Resources.Resource.GoToHome</a>
 </div>

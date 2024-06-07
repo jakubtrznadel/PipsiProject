@@ -1,6 +1,6 @@
 ﻿@model Amora.Models.UserProfileViewModel
 @{
-    ViewData["Title"] = "User Profile";
+    ViewData["Title"] = @Amora.Resources.Resource.Profile;
     var userName = Context.Session.GetString("Name");
     var userSurname = Context.Session.GetString("Surname");
     var userGender = Context.Session.GetString("Gender");
@@ -17,25 +17,25 @@
     }
 </style>
 
-<h1 class="text-center">User Profile</h1>
+<h1 class="text-center">@Amora.Resources.Resource.Profile</h1>
 
 @if (userName != null)
 {
     <div class="container d-flex flex-column justify-content-end align-items-start bg-white w-50 rounded-3 p-4 border-4 shadow"
          style="height: 60vh; background-image: url('/Images/@userPhoto'); background-size: cover; background-repeat: no-repeat">
         <div class="w-50 bg-white bg-opacity-75 p-3 shadow rounded-3">
-            <p class="mb-0">Name: @userName</p>
-            <p class="mb-0">Surname: @userSurname</p>
-            <p class="mb-0">Gender: @userGender</p>
-            <p class="mb-0">Age: @userAge</p>
-            <p class="mb-0">Hobby: @userHobby</p>
+            <p class="mb-0">@Amora.Resources.Resource.Name: @userName</p>
+            <p class="mb-0">@Amora.Resources.Resource.Surname: @userSurname</p>
+            <p class="mb-0">@Amora.Resources.Resource.Gender: @userGender</p>
+            <p class="mb-0">@Amora.Resources.Resource.Age: @userAge</p>
+            <p class="mb-0">@Amora.Resources.Resource.Hobby: @userHobby</p>
         </div>
     </div>
     <div class="container text-center mt-1">
-        <a asp-controller="Account" asp-action="EditHobby" class="btn btn-outline-dark btn-danger mt-5 shadow">Edit Hobby</a>
+        <a asp-controller="Account" asp-action="EditHobby" class="btn btn-outline-dark btn-danger mt-5 shadow">@Amora.Resources.Resource.EditH</a>
     </div>
 }
 else
 {
-    <p class="text-center">No user data available.</p>
+    <p class="text-center">@Amora.Resources.Resource.NoUserData</p>
 }
