@@ -1,1 +1,0 @@
-documentation of "AMORA" version 1.0.0 
