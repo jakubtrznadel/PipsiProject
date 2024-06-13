@@ -1,0 +1,84 @@
+%\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.92,0.92,0.92}
+\definecolor{light-gray}{gray}{0.85}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+%\definecolor{myred}{rgb}{1,0,0}
+
+
+\usepackage{listings}
+% wspólny licznik dla figures and lislistings
+\makeatletter
+\AtBeginDocument{%
+  \let\c@figure\c@lstlisting
+  \let\thefigure\thelstlisting
+  \let\ftype@lstlisting\ftype@figure % give the floats the same precedence
+}
+\makeatother
+%----------------------------------------
+\usepackage{listingsutf8}
+\renewcommand{\lstlistingname}{Rys.}%{Kod \'{z}r\'{o}d\l{l}owy}
+\lstset{
+basicstyle=\ttfamily ,
+language=python,
+inputencoding=utf8/cp1250,
+extendedchars=true,
+numbers=left, %eller none
+numberstyle=\scriptsize\color{black}\bfseries,
+%frame = tb,
+captionpos = rb,
+backgroundcolor=\color{light-gray},
+xleftmargin=\parindent,
+% xrightmargin=3.5cm
+showstringspaces=false,
+commentstyle=\color{Red},
+keywordstyle=\color{YellowOrange},
+keywordstyle=[2]\color{RedViolet},
+keywords={and,del,from,not,while,as,elif,global,or,with,assert,else,if,pass,yield,break,
+except,import,class,exec,in,raise,continue,finally,is,return,def,for,lambda,try},
+keywords=[2]{print,object,type,input,sum,min,max,int,float,str,list,dict,set,tuple},
+rulesepcolor=\color{Blue},
+escapeinside={<@}{@>},
+stringstyle=\color{OliveGreen},
+%basicstyle=\color{Black},
+%morecomment=[l]\#,%
+morestring=[d]{\\'},
+morestring=[d]{\\"},
+%morestring=[b]',%
+%morestring=[b]",%
+%morestring=*[d]',%
+%morestring=*[d]",%
+%morestring=[d]{\\'},
+%morestring=**[d]{"},
+%morestring=[d]{\\"},
+morestring=[s]{'}{'},
+morestring=[s]{"}{"},
+morestring=[s]{'''}{'''},
+morestring=[s]{"""}{"""},
+morestring=[s]{f"""}{"""},
+morestring=[s]{r"""}{"""},
+morestring=[s]{f"}{"},
+morestring=[s]{f'}{'},
+morestring=[s]{r"}{"},
+morestring=[s]{r'}{'},
+morecomment=[s]{Traceback}{Error*},
+literate={ą}{{\k{a}}}1
+             {Ą}{{\k{A}}}1
+             {ę}{{\k{e}}}1
+             {Ę}{{\k{E}}}1
+             {ó}{{\'o}}1
+             {Ó}{{\'O}}1
+             {ś}{{\'s}}1
+             {Ś}{{\'S}}1
+             {ł}{{\l{}}}1
+             {Ł}{{\L{}}}1
+             {ż}{{\.z}}1
+             {Ż}{{\.Z}}1
+             {ź}{{\'z}}1
+             {Ź}{{\'Z}}1
+             {ć}{{\'c}}1
+             {Ć}{{\'C}}1
+             {ń}{{\'n}}1
+             {Ń}{{\'N}}1
+}
+
+
